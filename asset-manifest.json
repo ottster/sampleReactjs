@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ottster/sampleReactjs/static/css/main.de9f4626.css",
-    "main.js": "/ottster/sampleReactjs/static/js/main.403b947d.js",
-    "index.html": "/ottster/sampleReactjs/index.html",
-    "main.de9f4626.css.map": "/ottster/sampleReactjs/static/css/main.de9f4626.css.map",
-    "main.403b947d.js.map": "/ottster/sampleReactjs/static/js/main.403b947d.js.map"
+    "main.css": "/sampleReactjs/static/css/main.de9f4626.css",
+    "main.js": "/sampleReactjs/static/js/main.403b947d.js",
+    "index.html": "/sampleReactjs/index.html",
+    "main.de9f4626.css.map": "/sampleReactjs/static/css/main.de9f4626.css.map",
+    "main.403b947d.js.map": "/sampleReactjs/static/js/main.403b947d.js.map"
   },
   "entrypoints": [
     "static/css/main.de9f4626.css",
