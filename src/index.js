@@ -9,6 +9,7 @@ import './styles/index.css';
 const root = document.getElementById('root');
 createRoot(root).render(
   <React.StrictMode>
+    <h1>Hello World</h1>
     <div className="container"> 
       <App />
     </div>
