@@ -2,7 +2,7 @@
   "name": "samplereactjs",
   "version": "1.0.0",
   "description": "sample reactjs showcase",
-  "homepage": "https://github.com/ottster/sampleReactjs",
+  "homepage": "https://ottster.github.io/sampleReactjs/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

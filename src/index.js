@@ -10,7 +10,6 @@ const root = document.getElementById('root');
 createRoot(root).render(
   <React.StrictMode>
     <div className="container"> 
-    <h1>Hello World</h1>
       <App />
     </div>
   </React.StrictMode>
