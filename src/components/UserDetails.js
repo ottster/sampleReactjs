@@ -2,7 +2,6 @@
 
 import React from 'react';
 import '../styles/UserDetails.css'; // Import the CSS file
-import '../styles/BackButton.css'; // Import the CSS file
 
 const UserDetails = ({ user }) => {
   return (
